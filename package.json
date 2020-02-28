@@ -3,7 +3,6 @@
     "displayName": "SimpleJSON",
     "version": "1.0.0",
     "unity": "2018.1",
-    "description": "Simple JSON for Unity Package Manager. LICENSE: 
-The MIT License (MIT), Copyright (c) 2012-2017 Markus Göbel (Bunny83), https://github.com/Bunny83/SimpleJSON",
+    "description": "Simple JSON for Unity Package Manager. LICENSE: The MIT License (MIT), Copyright (c) 2012-2017 Markus Göbel (Bunny83), https://github.com/Bunny83/SimpleJSON",
     "dependencies": {}
 }
